@@ -18,4 +18,4 @@ This Book Store Application is a Java-based platform developed in Eclipse, desig
 This application provides a straightforward interface for users to manage their book collections efficiently.
 
 ## Screenshots/Video
-*Here you can add screenshots or a video showcasing the application.*
+https://github.com/KoppalliNagakala/Book_Store_application/blob/main/Screenshot%202024-10-28%20202952.png
