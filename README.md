@@ -19,3 +19,4 @@ This application provides a straightforward interface for users to manage their 
 
 ## Screenshots/Video
 https://github.com/KoppalliNagakala/Book_Store_application/blob/main/Screenshot%202024-10-28%20202952.png
+https://github.com/KoppalliNagakala/Book_Store_application/blob/main/Screenshot%202024-10-28%20203012.png
